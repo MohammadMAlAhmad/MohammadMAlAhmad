@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad AL-AHMAD  
 
-<!--
-**MohammadMAlAhmad/MohammadMAlAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Systems Engineer | Control Systems | Computer Vision | Electronics | MATLAB & Simulink | Embedded Systems**  
 
-Here are some ideas to get you started:
+I'm passionate about **control systems, automation, and intelligent systems**.
+I work on projects involving **MATLAB, Simulink, embedded systems, and computer vision**.
+Currently, I'm exploring **adaptive and robust control, and actuators control**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Interests:**  
+- 🚀 Control Systems & Automation
+- 🖥 Computer Vision & AI for Image Processing  
+- 🛠 MATLAB, Simulink, and Software Development  
+- 🤖 Adaptive & Robust Control  
+- 🎛 Microcontrollers Programming (STM32)  
+- 🏗 System Architecture & Backend Development  
+
+## 🌟 My Projects  
+🔹 **[Digital Video Stabilization](#)** – Research-based implementation using deep learning and computer vision.  
+🔹 **[Vertical Wind Tunnel Platform Control](#)** – A project focused on control systems using MATLAB Simulink.  
+🔹 **[Microcontroller Programming](#)** – STM32 projects involving USART communication and real-time control.  
+🔹 **[Stepper Motor Driver](#)** – Designing and implementing stepper motor control system. 
+
+## 📫 Contact & Connect  
+🔗 [LinkedIn](#) | ✉️ [Email](#) | 🌐 [Personal Website (Coming Soon)](#)  
+
+💡 Always open to collaboration on exciting control, embedded systems, and AI projects! 🚀  
