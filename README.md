@@ -21,6 +21,6 @@ Currently, I'm exploring **adaptive and robust control, and actuators control**.
 🔹 **[Stepper Motor Driver](#)** – Designing and implementing stepper motor control system. 
 
 ## 📫 Contact & Connect  
-🔗 LinkedIn(https://www.linkedin.com/in/mohammad-al-ahmad-468270249) | ✉️ [Email](mailto:mohammad99alahmad00@gmail.com) | 🌐 [Personal Website (Coming Soon)](#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-al-ahmad-468270249) | ✉️ [Email](mailto:mohammad99alahmad00@gmail.com) | 🌐 [Personal Website (Coming Soon)](#)  
 
 💡 Always open to collaboration on exciting control, embedded systems, and AI projects! 🚀  
